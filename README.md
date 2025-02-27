@@ -8,4 +8,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 ## Lista dos Colaboradores
 
 
-Lucas Rocha(@luke-rocha3,dono)
+* Lucas Rocha(@luke-rocha3,dono)
