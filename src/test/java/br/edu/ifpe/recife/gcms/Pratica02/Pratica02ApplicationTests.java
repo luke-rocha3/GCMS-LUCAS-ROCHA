@@ -25,7 +25,7 @@ class Pratica02ApplicationTests {
 		this.mockMvc.perform(get("/"))
 				.andDo(print()).andExpect(status().isOk())
 				.andExpect(content()
-						.string(containsString("Hello, World!")));
+						.string(containsString("Hello, goku!")));
 	}
 
 	@Test
